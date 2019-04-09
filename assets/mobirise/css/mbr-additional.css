@@ -487,6 +487,9 @@ h6,
 #header2-4 .mbr-section-text {
   font-family: 'Lora', serif;
 }
+#form1-b .form-control-label {
+  color: #232323;
+}
 #contacts4-5 STRONG {
   color: #6026bc;
 }

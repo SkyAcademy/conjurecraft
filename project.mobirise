@@ -33,11 +33,11 @@
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/conjurecraft-logo-transparant-128x118.png",
     "noImageResize": "",
-    "cookiesAlert": "Deze website bevat coekies! Zo kunnen we je ervaring verbeteren. Mjam!",
+    "cookiesAlert": "Deze website bevat cookies! Zo kunnen we je ervaring verbeteren. Mjam!",
     "gdpr": "",
     "google-analytics": "",
     "sitemapSwitcher": "on",
-    "uniqCompNum": 11,
+    "uniqCompNum": 13,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png"
   },
@@ -240,30 +240,104 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "GEEF ONZE WEBSITE EEN MENING",
+          "subtitle": "Is hij betoverend genoeg?",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "form": {
+            "action": "niels.leemans1@gmail.com",
+            "alerts": {
+              "success": "Bedankt voor het invullen!\nJe review wordt nagekeken en dan gepubliceerd, zolang hij het regelement respecteerd.\nJe mail wordt niet weergegeven, enkel je voornaam en mening."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Voornaam*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Mail*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mening (tips en tops?)*"
+              }
+            }
+          },
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-b",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_inherit": "testimonials2",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "count": "1",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "socialFacebook": false,
-            "postsNumber": 5,
-            "socialGoogle": true,
-            "socialDisqus": false,
-            "shortName": "",
-            "bgColorRadio": true,
-            "bgColor": "#6026bc",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sky.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
             "overlay": true,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": 0.6
+            "overlayColor": "#222",
+            "overlayOpacity": 0.2
           },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
-          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/google-comments.jpg\"></div>",
-          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
-          "alias": "facebook-comments",
           "_tags": [
-            "Extension"
+            "Thema"
           ],
-          "_name": "facebook-comments-block",
-          "_anchor": "facebook-comments-block-8"
+          "title": "WAT MENSEN VINDEN VAN DE SITE",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Niels",
+              "authorBio": "User",
+              "text": "<p>“Ik heb deze site gemaakt en vind hem alvast geslaagd.</p><p><span style=\"font-size: 1.125rem;\">Laten jullie een mening achter? De beste verschijnen hier!”</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials4",
+          "_anchor": "testimonials4-c"
         },
         {
           "_params": {
