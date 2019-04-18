@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ConjureCraft - Beleef vandaag nog je avontuur!",
-    "currentPage": "not-found.html",
+    "currentPage": "forum.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -183,7 +183,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "showArrow": true,
+            "showArrow": false,
             "imageSize": 50,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/landscape.jpg",
