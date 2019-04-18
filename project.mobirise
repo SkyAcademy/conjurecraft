@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ConjureCraft - Beleef vandaag nog je avontuur!",
-    "currentPage": "index.html",
+    "currentPage": "not-found.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -37,7 +37,7 @@
     "gdpr": "",
     "google-analytics": "",
     "sitemapSwitcher": "on",
-    "uniqCompNum": 13,
+    "uniqCompNum": 22,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png"
   },
@@ -46,7 +46,7 @@
       "settings": {
         "main": true,
         "title": "ConjureCraft - Beleef vandaag nog je avontuur!",
-        "meta_descr": "",
+        "meta_descr": "ConjureCraft is een server met meerdere gamemodes gebouwd in het computerspel Minecraft waar je een heel avontuur start! In ons pretpark word je betoverd door de mooiste attracties en onze andere gamemodes zoals SkyBlock, PvP en BattleRoyale zijn ook fantastisch om te spelen!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -114,15 +114,16 @@
             "fontColor": "#6026bc",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">IP: play.conjurecraft.nl</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">FORUM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">VIP HELPDESK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"join.html\">JOIN</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"join.html\">IP: play.conjurecraft.nl</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/img-1150-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "alt": "ConjureCraft",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -133,7 +134,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CONJURECRAFT</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CONJURECRAFT</a>",
           "_tags": [
             "Thema"
           ],
@@ -161,8 +162,8 @@
             "overlayOpacity": "0"
           },
           "title": "Beleef vandaag nog je avontuur!",
-          "text": "-ConjureCraft",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ATTRACTIES</a> ",
+          "text": "-Onze server is in onderhoud tot begin juni 2019!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"not-found.html\" data-toolbar=\"-mbrBtnMove\">ATTRACTIES</a> ",
           "_tags": [
             "Thema"
           ],
@@ -203,7 +204,7 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/2019-04-09-21.18.46-2-1280x800.png",
               "link": "",
-              "alt": "",
+              "alt": "ConjureCraft Battle Royale",
               "title": ""
             },
             "video": {
@@ -220,7 +221,7 @@
           },
           "title": "DE SERVER IS KLAAR<br>VOOR JOU!",
           "text": "Al meer dan een jaar zorgen wij voor<br>de leukste gamemodes, onder andere:<br><br>Pretpark - SkyBlock - PvP - Build Battle -<br>Battle Royale - SkyWars - ConjureWars -<br>Minetopia",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GAMEMODES</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"not-found.html\" data-toolbar=\"-mbrBtnMove\">GAMEMODES</a>",
           "_tags": [
             "Thema"
           ],
@@ -255,8 +256,8 @@
             "overlayOpacity": 0.5
           },
           "title": "GEEF ONZE WEBSITE EEN MENING",
-          "subtitle": "Is hij betoverend genoeg?",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "subtitle": "Is hij betoverend genoeg? Misschien komt je mening wel hierbeneden te staan!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">BEOORDELEN</a>",
           "form": {
             "action": "niels.leemans1@gmail.com",
             "alerts": {
@@ -292,6 +293,10 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             }
           }
         },
@@ -324,7 +329,7 @@
             {
               "authorName": "Niels",
               "authorBio": "User",
-              "text": "<p>“Ik heb deze site gemaakt en vind hem alvast geslaagd.</p><p><span style=\"font-size: 1.125rem;\">Laten jullie een mening achter? De beste verschijnen hier!”</span></p>",
+              "text": "<p>“<span style=\"font-size: 1.125rem;\">Laten jullie een mening achter? De beste verschijnen hier!”</span></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -337,7 +342,57 @@
             }
           ],
           "_name": "testimonials4",
-          "_anchor": "testimonials4-c"
+          "_anchor": "testimonials4-c",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "NOTIFICATIE FORMULIER",
+          "subtitle": "Wilt u een mail ontvangen wanneer er een nieuwe review, een nieuwe vacature of een nieuw forumbericht is gepost? Vul dan uw mailadres in.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">AANMELDEN</a>",
+          "form": {
+            "action": "info@conjurecraft.nl",
+            "alerts": {
+              "success": "Bedankt, vanaf nu ontvangt u notificatiemails!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "example@conjurecraft.nl"
+              }
+            }
+          },
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-e"
         },
         {
           "_params": {
@@ -353,8 +408,8 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contacteren</a>",
-          "text1": "<strong>In-game &amp; Websites</strong><br>IP: play.conjurecraft.nl<br>Hoofdwebsite: www.conjurecraft.nl<br>Webwinkel: winkel.conjurecraft.nl<br><br><br>\n<strong>Contact</strong><br>\nEmail: info@conjurecraft.nl<br>\nDiscord: discord.conjurecraft.nl<br>Social Media: Instagram - Twitter - YouTube",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text1": "<strong>In-game</strong><br>IP: play.conjurecraft.nl<br><br><br>\n<strong>Contact</strong><br>\nEmail: info@conjurecraft.nl<br>\nAndere: www.conjurecraft.nl/contact<br><br>© 2019 ConjureCraft Minecraft server<br><i>(hoofdafbeelding wordt regelmatig vervangen)</i>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"vacatures.html\">Vacatures</a></li><li><a href=\"report.html\">Report</a></li><li><a href=\"https://winkel.conjurecraft.nl\" target=\"_blank\">Webshop</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "info@conjurecraft.nl",
@@ -393,9 +448,2043 @@
               "color": "#6026bc"
             },
             "P": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "meta_descr": "Wij zijn te contacteren met deze contactgegevens!\nOok het server IP is op deze pagina te vinden!",
+        "title": "ConjureCraft - Contact",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#6026bc"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#6026bc"
+            },
+            ".link, .dropdown-item": {
+              "color": "#6026bc"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#f99a0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#faa931!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#faaf40"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#6026bc",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#faaf40",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#6026bc",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">FORUM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">VIP HELPDESK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"join.html\">JOIN</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"join.html\">IP: play.conjurecraft.nl</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-1150-128x128.jpg",
+              "height": 128,
+              "alt": "ConjureCraft",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "desktop",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CONJURECRAFT</a>",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-8"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/b0be4502-9623-4258-a71e-343b239456b2-1586x891.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#6026bc",
+            "overlayOpacity": "0"
+          },
+          "title": "Contact",
+          "text": "-ConjureCraft",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ATTRACTIES</a> ",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#faaf40",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            }
+          },
+          "_anchor": "header1-a"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": "5",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-1555-1920x1080.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IN-GAME",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "IP: play.conjurecraft.nl",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">JOIN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-1556-1920x1017.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "WEBSITES",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Hoofdwebsite: www.conjurecraft.nl<br>Webwinkel: winkel.conjurecraft.nl<br>Boekenwebsite: boek.conjurecraft.nl<br>Accountwebsite: mijn.conjurecraft.nl (onderhoud)<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-1557-1920x1017.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "SOCIAL MEDIA",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Mail: info@conjurecraft.nl<br>Instagram: @conjurecraft.nl<br>Twitter: @conjurecraft<br>Discord: discord.conjurecraft.nl<br>YouTube: ConjureCraft Minecraft Server",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.5"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-c",
+          "_styles": {
+            "H2": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Belgium",
+              "placeId": "ChIJl5fz7WR9wUcR8g_mObTy60c",
+              "state": "ok",
+              "stateDetails": ""
+            },
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-b"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#faaf40",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contacteren</a>",
+          "text1": "<strong>In-game</strong><br>IP: play.conjurecraft.nl<br><br><br>\n<strong>Contact</strong><br>\nEmail: info@conjurecraft.nl<br>\nAndere: www.conjurecraft.nl/contact<br><br>© 2019 ConjureCraft Minecraft server<br><i>(hoofdafbeelding wordt regelmatig vervangen)</i>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"vacatures.html\">Vacatures</a></li><li><a href=\"report.html\">Report</a></li><li><a href=\"https://winkel.conjurecraft.nl\" target=\"_blank\">Webshop</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@conjurecraft.nl",
+            "alerts": {
+              "success": "U krijgt z.s.m. een antwoord!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Bericht"
+              }
+            }
+          },
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "STRONG": {
+              "color": "#6026bc"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "contacts4-9"
+        }
+      ]
+    },
+    "forum.html": {
+      "settings": {
+        "meta_descr": "Hulp nodig of iets posten op ons forum?\nDat kan dankzij ons ConjureCraft forum!",
+        "title": "ConjureCraft - Forum",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/b0be4502-9623-4258-a71e-343b239456b2-1586x891.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#6026bc",
+            "overlayOpacity": "0"
+          },
+          "title": "Forum",
+          "text": "-ConjureCraft",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ATTRACTIES</a> ",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#faaf40",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            }
+          },
+          "_anchor": "header1-f"
+        },
+        {
+          "_inherit": "testimonials2",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "count": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1560-1920x1017.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.2
+          },
+          "_tags": [
+            "Thema"
+          ],
+          "title": "RECENTE POSTS",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Niels",
+              "authorBio": "User",
+              "text": "<p>“Welkom op ons forum! Vul het formulier onderaan op de pagina in om iets te posten!”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials4",
+          "_anchor": "testimonials4-g",
+          "_styles": {
+            ".card-footer > div": {
               "color": "#ffffff"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "NOTIFICATIE FORMULIER",
+          "subtitle": "Wilt u een mail ontvangen wanneer er een nieuwe review, een nieuwe vacature of een nieuw forumbericht is gepost? Vul dan uw mailadres in.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">AANMELDEN</a>",
+          "form": {
+            "action": "info@conjurecraft.nl",
+            "alerts": {
+              "success": "Bedankt, vanaf nu ontvangt u notificatiemails!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "example@conjurecraft.nl"
+              }
+            }
+          },
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-d"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#6026bc"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#6026bc"
+            },
+            ".link, .dropdown-item": {
+              "color": "#6026bc"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#f99a0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#faa931!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#faaf40"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#6026bc",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#faaf40",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#6026bc",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">FORUM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">VIP HELPDESK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"join.html\">JOIN</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"join.html\">IP: play.conjurecraft.nl</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-1150-128x128.jpg",
+              "height": 128,
+              "alt": "ConjureCraft",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "desktop",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CONJURECRAFT</a>",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-d"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "FORUMBERICHT POSTEN",
+          "subtitle": "Wanneer we uw bericht hebben nagekeken sturen we u een mail met de uitslag van de controle, indien het bericht kan gepost worden vragen wij u om op die mail te antwoorden om je mailadres te verifiëren.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">AANVRAGEN</a>",
+          "form": {
+            "action": "info@conjurecraft.nl",
+            "alerts": {
+              "success": "Opgelet! Uw bericht kan niet gepost worden voordat uw mail geverifiëerd is! Wanneer we uw bericht hebben nagekeken sturen we u een mail met de uitslag van de controle, indien het bericht kan gepost worden vragen wij u om op die mail te antwoorden om je mailadres te verifiëren."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Voornaam*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Mailadres*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Artikkeltekst (met onderwerp bovenaan)"
+              }
+            }
+          },
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-h",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#faaf40",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contacteren</a>",
+          "text1": "<strong>In-game</strong><br>IP: play.conjurecraft.nl<br><br><br>\n<strong>Contact</strong><br>\nEmail: info@conjurecraft.nl<br>\nAndere: www.conjurecraft.nl/contact<br><br>© 2019 ConjureCraft Minecraft server<br><i>(hoofdafbeelding wordt regelmatig vervangen)</i>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"vacatures.html\">Vacatures</a></li><li><a href=\"report.html\">Report</a></li><li><a href=\"https://winkel.conjurecraft.nl\" target=\"_blank\">Webshop</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@conjurecraft.nl",
+            "alerts": {
+              "success": "U krijgt z.s.m. een antwoord!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Bericht"
+              }
+            }
+          },
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "STRONG": {
+              "color": "#6026bc"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "contacts4-e"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "ConjureCraft - VIP Helpdesk",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/b0be4502-9623-4258-a71e-343b239456b2-1586x891.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#6026bc",
+            "overlayOpacity": "0"
+          },
+          "title": "VIP Helpdesk",
+          "text": "-ConjureCraft",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ATTRACTIES</a> ",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#faaf40",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            }
+          },
+          "_anchor": "header1-m"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#6026bc"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#6026bc"
+            },
+            ".link, .dropdown-item": {
+              "color": "#6026bc"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#f99a0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#faa931!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#faaf40"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#6026bc",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#faaf40",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#6026bc",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">FORUM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">VIP HELPDESK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"join.html\">JOIN</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"join.html\">IP: play.conjurecraft.nl</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-1150-128x128.jpg",
+              "height": 128,
+              "alt": "ConjureCraft",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "desktop",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CONJURECRAFT</a>",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-k"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "WIJ ZIJN NOG BEZIG AAN DEZE HELPDESK",
+          "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page3.html#form1-9\" data-toolbar=\"-mbrBtnMove\">HELPARTIKEL-IDEEËN GEVEN</a>",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-n"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "HELPARTIKEL IDEE",
+          "subtitle": "Heb jij een goed idee voor een VIP functie waarover een informatietekst moet komen?",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">STUREN</a>",
+          "form": {
+            "action": "info@conjurecraft.nl",
+            "alerts": {
+              "success": "We bekijken en beantwoorden je idee zo snel mogelijk!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Voornaam*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Mailadres*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Idee"
+              }
+            }
+          },
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-9",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#faaf40",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contacteren</a>",
+          "text1": "<strong>In-game</strong><br>IP: play.conjurecraft.nl<br><br><br>\n<strong>Contact</strong><br>\nEmail: info@conjurecraft.nl<br>\nAndere: www.conjurecraft.nl/contact<br><br>© 2019 ConjureCraft Minecraft server<br><i>(hoofdafbeelding wordt regelmatig vervangen)</i>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"vacatures.html\">Vacatures</a></li><li><a href=\"report.html\">Report</a></li><li><a href=\"https://winkel.conjurecraft.nl\" target=\"_blank\">Webshop</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@conjurecraft.nl",
+            "alerts": {
+              "success": "U krijgt z.s.m. een antwoord!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Bericht"
+              }
+            }
+          },
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "STRONG": {
+              "color": "#6026bc"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "contacts4-l"
+        }
+      ]
+    },
+    "join.html": {
+      "settings": {
+        "meta_descr": "Hoe join ik de server? Wat is het IP? Welke Minecraft moet ik hebben? In welke gameversie moet ik joinen? Al die vragen worden op deze pagina beantwoord!",
+        "title": "ConjureCraft - Join",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#6026bc"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#6026bc"
+            },
+            ".link, .dropdown-item": {
+              "color": "#6026bc"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#f99a0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#faa931!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#faaf40"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#6026bc",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#faaf40",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#6026bc",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">FORUM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">VIP HELPDESK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"join.html\">JOIN</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"join.html\">IP: play.conjurecraft.nl</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-1150-128x128.jpg",
+              "height": 128,
+              "alt": "ConjureCraft",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "desktop",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CONJURECRAFT</a>",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-a"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/b0be4502-9623-4258-a71e-343b239456b2-1586x891.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#6026bc",
+            "overlayOpacity": "0"
+          },
+          "title": "Join",
+          "text": "-ConjureCraft",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ATTRACTIES</a> ",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#faaf40",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            }
+          },
+          "_anchor": "header1-c"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1555-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x984.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "OPSTARTEN",
+          "text": "Start Minecraft Java Editie op. Indien je dit spel niet hebt kun je dit kopen op minecraft.net.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-d"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1556-1920x1017.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/schermafbeelding-2019-04-13-om-21.28.52-1400x875.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "LAUNCHER BESTUREN",
+          "text": "Nu opent de Minecraft launcher. Indien u nog niet ingelogd bent met uw Minecraft account kunt u dat rechts bovenaan doen.<br>Dan druk je op play/spelen in het midden onderaan, wanneer er niet staat: 'nieuwste release', staat naast de knop normaal een pijltje omhoog.<br>Klik daarop en selecteer 'nieuwste release'. Druk dan op spelen.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-e"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1557-1920x1017.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/schermafbeelding-2019-04-13-om-21.34.46-1400x875.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "MULTIPLAYER AANDUIDEN",
+          "text": "Na het opstarten krijg je dit scherm te zien. Duid 'Multiplayer' (het 2e balkje) aan.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-f"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1579-1920x1017.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/schermafbeelding-2019-04-18-om-08.20.22-1400x875.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "SERVER TOEVOEGEN EN JOINEN",
+          "text": "Nu klik je op het balkje van ConjureCraft, indien dat er nog niet is druk je op 'add server' of 'server toevoegen'. Dan vul je bij het bovenste veld 'ConjureCraft' in en bij het onderste veld 'play.conjurecraft.nl'. Dan duid je bij Server Recourse Packs: 'Enabled' aan. Dit doe je door er 1 keer op te klikken. Daarna klik je op done. Nu is de server toegevoegd aan je serverlijst, wanneer je er dubbel op klik join je.<br><br>Als je niet kunt joinen doe je deze stappen best opnieuw.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-g"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#faaf40",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contacteren</a>",
+          "text1": "<strong>In-game</strong><br>IP: play.conjurecraft.nl<br><br><br>\n<strong>Contact</strong><br>\nEmail: info@conjurecraft.nl<br>\nAndere: www.conjurecraft.nl/contact<br><br>© 2019 ConjureCraft Minecraft server<br><i>(hoofdafbeelding wordt regelmatig vervangen)</i>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"vacatures.html\">Vacatures</a></li><li><a href=\"report.html\">Report</a></li><li><a href=\"https://winkel.conjurecraft.nl\" target=\"_blank\">Webshop</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@conjurecraft.nl",
+            "alerts": {
+              "success": "U krijgt z.s.m. een antwoord!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Bericht"
+              }
+            }
+          },
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "STRONG": {
+              "color": "#6026bc"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "contacts4-b"
+        }
+      ]
+    },
+    "vacatures.html": {
+      "settings": {
+        "meta_descr": "Voor wat solliciteer jij?",
+        "title": "ConjureCraft - Vacatures",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#6026bc"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#6026bc"
+            },
+            ".link, .dropdown-item": {
+              "color": "#6026bc"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#f99a0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#faa931!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#faaf40"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#6026bc",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#faaf40",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#6026bc",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">FORUM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">VIP HELPDESK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"join.html\">JOIN</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"join.html\">IP: play.conjurecraft.nl</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-1150-128x128.jpg",
+              "height": 128,
+              "alt": "ConjureCraft",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "desktop",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CONJURECRAFT</a>",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-8"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/b0be4502-9623-4258-a71e-343b239456b2-1586x891.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#6026bc",
+            "overlayOpacity": "0"
+          },
+          "title": "Contact",
+          "text": "-ConjureCraft",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ATTRACTIES</a> ",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#faaf40",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            }
+          },
+          "_anchor": "header1-a"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "GEEN OPENSTAANDE VACATURES",
+          "text": "Bekijk deze pagina regelmatig terug en misschien word jij in de toekomst wel een teamlid van ConjureCraft!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"vacatures.html#form2-c\" data-toolbar=\"-mbrBtnMove\">HERINNERING</a>",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-b"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "NOTIFICATIE FORMULIER",
+          "subtitle": "Wilt u een mail ontvangen wanneer er een nieuwe review, een nieuwe vacature of een nieuw forumbericht is gepost? Vul dan uw mailadres in.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">AANMELDEN</a>",
+          "form": {
+            "action": "info@conjurecraft.nl",
+            "alerts": {
+              "success": "Bedankt, vanaf nu ontvangt u notificatiemails!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "example@conjurecraft.nl"
+              }
+            }
+          },
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-c"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#faaf40",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contacteren</a>",
+          "text1": "<strong>In-game</strong><br>IP: play.conjurecraft.nl<br><br><br>\n<strong>Contact</strong><br>\nEmail: info@conjurecraft.nl<br>\nAndere: www.conjurecraft.nl/contact<br><br>© 2019 ConjureCraft Minecraft server<br><i>(hoofdafbeelding wordt regelmatig vervangen)</i>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"vacatures.html\">Vacatures</a></li><li><a href=\"report.html\">Report</a></li><li><a href=\"https://winkel.conjurecraft.nl\" target=\"_blank\">Webshop</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@conjurecraft.nl",
+            "alerts": {
+              "success": "U krijgt z.s.m. een antwoord!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Bericht"
+              }
+            }
+          },
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "STRONG": {
+              "color": "#6026bc"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "contacts4-9"
+        }
+      ]
+    },
+    "report.html": {
+      "settings": {
+        "meta_descr": "Iemand de regels zien overtreden of een bug gevonden? Reporteer het hier!",
+        "title": "ConjureCraft - Report",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#6026bc"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#6026bc"
+            },
+            ".link, .dropdown-item": {
+              "color": "#6026bc"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#f99a0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#faa931!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#faaf40"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#6026bc",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#faaf40",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#6026bc",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">FORUM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">VIP HELPDESK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"join.html\">JOIN</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"join.html\">IP: play.conjurecraft.nl</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-1150-128x128.jpg",
+              "height": 128,
+              "alt": "ConjureCraft",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "desktop",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CONJURECRAFT</a>",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-f"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/b0be4502-9623-4258-a71e-343b239456b2-1586x891.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#6026bc",
+            "overlayOpacity": "0"
+          },
+          "title": "Report",
+          "text": "-ConjureCraft",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ATTRACTIES</a> ",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#faaf40",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            }
+          },
+          "_anchor": "header1-h"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "REPORT FORM",
+          "subtitle": "Sluit alle fouten uit! Maak ons beter.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTEREN</a>",
+          "form": {
+            "action": "info@conjurecraft.nl",
+            "alerts": {
+              "success": "Bedankt! Jouw reactie wordt zo snel mogelijk nagekeken. U ontvangt spoedig een mail met het resultaat."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Jouw Voornaam*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Jouw Mailadres*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Raport (indien speler: <gebruikersnaam> + fout) (indien bug: bug + fout)"
+              }
+            }
+          },
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-i",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#faaf40",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contacteren</a>",
+          "text1": "<strong>In-game</strong><br>IP: play.conjurecraft.nl<br><br><br>\n<strong>Contact</strong><br>\nEmail: info@conjurecraft.nl<br>\nAndere: www.conjurecraft.nl/contact<br><br>© 2019 ConjureCraft Minecraft server<br><i>(hoofdafbeelding wordt regelmatig vervangen)</i>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"vacatures.html\">Vacatures</a></li><li><a href=\"report.html\">Report</a></li><li><a href=\"https://winkel.conjurecraft.nl\" target=\"_blank\">Webshop</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@conjurecraft.nl",
+            "alerts": {
+              "success": "U krijgt z.s.m. een antwoord!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Bericht"
+              }
+            }
+          },
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "STRONG": {
+              "color": "#6026bc"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "contacts4-g"
+        }
+      ]
+    },
+    "not-found.html": {
+      "settings": {
+        "meta_descr": "Soms gebeurt het wel eens dat er een pagina in onderhoud is of dat er een pagina niet bestaat.",
+        "title": "ConjureCraft - Niet gevonden",
+        "order": 7
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#6026bc"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#6026bc"
+            },
+            ".link, .dropdown-item": {
+              "color": "#6026bc"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#f99a0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#faa931!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#faaf40"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#6026bc",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#faaf40",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#6026bc",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">FORUM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">VIP HELPDESK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"join.html\">JOIN</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"join.html\">IP: play.conjurecraft.nl</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-1150-128x128.jpg",
+              "height": 128,
+              "alt": "ConjureCraft",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "desktop",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CONJURECRAFT</a>",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-j"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/b0be4502-9623-4258-a71e-343b239456b2-1586x891.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#6026bc",
+            "overlayOpacity": "0"
+          },
+          "title": "Pagina niet gevonden",
+          "text": "-ConjureCraft",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> ",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#faaf40",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            }
+          },
+          "_anchor": "header1-l"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#faaf40",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contacteren</a>",
+          "text1": "<strong>In-game</strong><br>IP: play.conjurecraft.nl<br><br><br>\n<strong>Contact</strong><br>\nEmail: info@conjurecraft.nl<br>\nAndere: www.conjurecraft.nl/contact<br><br>© 2019 ConjureCraft Minecraft server<br><i>(hoofdafbeelding wordt regelmatig vervangen)</i>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"vacatures.html\">Vacatures</a></li><li><a href=\"report.html\">Report</a></li><li><a href=\"https://winkel.conjurecraft.nl\" target=\"_blank\">Webshop</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@conjurecraft.nl",
+            "alerts": {
+              "success": "U krijgt z.s.m. een antwoord!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Bericht"
+              }
+            }
+          },
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "STRONG": {
+              "color": "#6026bc"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "contacts4-k"
         }
       ]
     }
